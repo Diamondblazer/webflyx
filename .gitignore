@@ -1,0 +1,3 @@
+git rm --cached secure/passwords.txt
+git rm --cached secure/guilty_pleasures.md
+
