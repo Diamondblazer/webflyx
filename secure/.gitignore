@@ -1,2 +1,2 @@
 git rm --cached guilty_pleasures.md
-
+git rm --cached passwords.txt
