@@ -1,6 +1,5 @@
 git rm --cached secure/passwords.txt
 git rm --cached secure/guilty_pleasures.md
 dir_to_ignore/secure
-git rm --cached guilty_pleasures.md
-git rm --cached advert.html  
+git rm --cached guilty_pleasures.md  
 git rm --cached advert.md
